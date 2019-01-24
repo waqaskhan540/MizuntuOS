@@ -1,8 +1,14 @@
-## MizuntuOS
-MizuntuOS is a open-source operating system
-To build it read Build.txt file in the sources you can change it configuration
-wallpaper its easy to customize and run it uses x-lunch window manager to learn
-how to run it read startup.txt
+## What is MizuntuOS?
+MizuntuOS is a open-source operating system built on top of Linux Kernel. 
                        
-#OS that is  
-#Simple,easy to use and customize
+## Features
+Write the list of features it has.
+
+## File Structure
+write down the structure of files being used in MizuntuOS?
+
+## How to configure MizuntuOS?
+Write down steps to configure it on local system.
+
+## Building your own MizuntuOS Components?
+Write down the steps to build components for MizuntuOS
